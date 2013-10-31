@@ -1,0 +1,25 @@
+*WEAPON
+Gun
+Lead Pipe
+Rope
+Candlestick
+Knife
+Vogon Poetry
+*PERSON
+Mrs. Peacock
+Miss Scarlet
+Professor Plum
+Mrs. White
+Colonel Mustard
+Mister Green
+*ROOM
+Conservatory
+Kitchen
+Ballroom
+Bowling Alley
+Potion Room
+Garage
+Aquarium
+Bathroom
+Closet
+Walkway
